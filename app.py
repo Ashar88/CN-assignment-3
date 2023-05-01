@@ -1,35 +1,37 @@
-#!/usr/bin/env python3
-
-# Package imports
 from dotenv import load_dotenv
 import asyncio
 import os
-
-# Local imports
 from controllers.ServerDriver import Servers
 from controllers.ClientDriver import Clients
 
 load_dotenv()
+runnable = asyncio.run
+
+
+def client_server_run():
+    runnable(Servers())
+    runnable(Clients())  
+
+def infinite_looping():
+    while True:
+      pass
+
+def fileOpening(filename):
+    return open(str(os.environ[filename]), encoding='UTF-8', mode='w')
 
 
 def main():
-
     if not os.path.exists('logs'):
         os.makedirs('logs')
-
-        with open(str(os.environ['RECEIVER_LOG_FILENAME']), encoding='UTF-8', mode='w') as ReceiverPKTLog, \
-            open(str(os.environ['SENDER_LOG_FILENAME']), encoding='UTF-8', mode='w') as SenderPKTLog, \
-                open(str(os.environ['RECEIVER_LOG_LOGGER']), encoding='UTF-8', mode='w') as ReceiverStreamLogger, \
-        open(str(os.environ['SENDER_LOG_LOGGER']), encoding='UTF-8', mode='w') as SenderStreamLogger, \
-            open(str(os.environ['MISC']), encoding='UTF-8', mode='w') as Misc:
-            pass
-
-    asyncio.run(Servers())
-    asyncio.run(Clients())
-
-    while True:
-        pass
-
+        try:
+            ReceiverPKTLog = open(fileOpening('RECEIVER_LOG_FILENAME'))
+            SenderPKTLog = open(fileOpening('SENDER_LOG_FILENAME'))
+            ReceiverStreamLogger = open(fileOpening('RECEIVER_LOG_LOGGER'))
+            SenderStreamLogger = open(fileOpening('SENDER_LOG_LOGGER'))
+            Misc = open(fileOpening('MISC'))
+        finally:
+             pass
+    client_server_run(); infinite_looping()
 
 if __name__ == '__main__':
     main()
