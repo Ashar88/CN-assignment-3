@@ -6,7 +6,7 @@ import json
 import os
 from models.TCPPacket import TCPPacket
 from models.AuxProcessing import AuxProcessing
-from lib.GoBackN import GoBackNReceiver
+from GoBackN import GoBackNReceiver
 
 load_dotenv()
 
@@ -51,7 +51,7 @@ def ReceiverClient():
     global TCPData, counter, GoBackN
 
     try:
-        PKTLogger = open(str(os.environ['RECEIVER_LOG_FILENAME']), encoding='utf-8', mode='w')
+        PKTLogger = open(str(RECEIVER_LOG_FILENAME), encoding='utf-8', mode='w')
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
             # Bare ReceiverClient TCP config

@@ -1,8 +1,8 @@
 from dotenv import load_dotenv
 import asyncio
 import os
-from controllers.ServerDriver import Servers
-from controllers.ClientDriver import Clients
+from ServerDriver import Servers
+from ClientDriver import Clients
 
 load_dotenv()
 

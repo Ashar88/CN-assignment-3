@@ -11,7 +11,7 @@ import os
 # Local imports
 from models.TCPPacket import TCPPacket
 from models.AuxProcessing import AuxProcessing
-from lib.GoBackN import GoBackNSender, SenderWindow
+from GoBackN import GoBackNSender, SenderWindow
 
 # take environment variables from .env
 load_dotenv()
