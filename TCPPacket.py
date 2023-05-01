@@ -7,8 +7,8 @@ import json
 import os
 
 # Local imports
-from models.TCPControlFlags import TCPControlFlags
-from models.AuxProcessing import AuxProcessing
+from TCPControlFlags import TCPControlFlags
+from AuxProcessing import AuxProcessing
 
 load_dotenv()  # take environment variables from .env
 

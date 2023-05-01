@@ -6,8 +6,8 @@ from enum import Enum
 import os
 
 # Local imports
-from models.TCPPacket import TCPPacket
-from models.AuxProcessing import AuxProcessing
+from TCPPacket import TCPPacket
+from AuxProcessing import AuxProcessing
 
 # Loads .env file
 load_dotenv()

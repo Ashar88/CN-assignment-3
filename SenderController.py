@@ -9,8 +9,8 @@ import json
 import os
 
 # Local imports
-from models.TCPPacket import TCPPacket
-from models.AuxProcessing import AuxProcessing
+from TCPPacket import TCPPacket
+from AuxProcessing import AuxProcessing
 from GoBackN import GoBackNSender, SenderWindow
 
 # take environment variables from .env

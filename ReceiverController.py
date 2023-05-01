@@ -4,8 +4,8 @@ import socket
 import time
 import json
 import os
-from models.TCPPacket import TCPPacket
-from models.AuxProcessing import AuxProcessing
+from TCPPacket import TCPPacket
+from AuxProcessing import AuxProcessing
 from GoBackN import GoBackNReceiver
 
 load_dotenv()
