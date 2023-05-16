@@ -1,0 +1,450 @@
+[RECEIVED - 1.296875] Counter: 0 - Source: 6666, Destination: 7777, Sequence: 0, Acknowledgement: 0, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 1, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 0
+
+[SENDING - 1.328125] Counter: 1 - Source: 6666, Destination: 7777, Sequence: 0, Acknowledgement: 1, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 1, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 1
+
+[RECEIVED - 2.84375] Counter: 2 - Source: 6666, Destination: 7777, Sequence: 501, Acknowledgement: 1, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 1, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 1
+
+[SENDING - 2.890625] Counter: 3 - Source: 6666, Destination: 7777, Sequence: 501, Acknowledgement: 502, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 501
+
+[RECEIVED - 4.09375] Counter: 4 - Source: 6666, Destination: 7777, Sequence: 501, Acknowledgement: 502, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 501
+
+[SENDING - 4.125] Counter: 5 - Source: 6666, Destination: 7777, Sequence: 501, Acknowledgement: 501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 501
+
+[RECEIVED - 4.8125] Counter: 6 - Source: 6666, Destination: 7777, Sequence: 1001, Acknowledgement: 501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 501
+
+[SENDING - 4.828125] Counter: 7 - Source: 6666, Destination: 7777, Sequence: 1501, Acknowledgement: 1001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 1001
+
+[RECEIVED - 5.859375] Counter: 8 - Source: 6666, Destination: 7777, Sequence: 1501, Acknowledgement: 1001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 1001
+
+[SENDING - 5.875] Counter: 9 - Source: 6666, Destination: 7777, Sequence: 2001, Acknowledgement: 1501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 1501
+
+[RECEIVED - 7.15625] Counter: 10 - Source: 6666, Destination: 7777, Sequence: 2001, Acknowledgement: 1501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 1501
+
+[SENDING - 7.171875] Counter: 11 - Source: 6666, Destination: 7777, Sequence: 2501, Acknowledgement: 2001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 2001
+
+[RECEIVED - 8.09375] Counter: 12 - Source: 6666, Destination: 7777, Sequence: 2501, Acknowledgement: 2001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 2001
+
+[SENDING - 8.140625] Counter: 13 - Source: 6666, Destination: 7777, Sequence: 3001, Acknowledgement: 2501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 2501
+
+[RECEIVED - 8.84375] Counter: 14 - Source: 6666, Destination: 7777, Sequence: 3001, Acknowledgement: 2501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 2501
+
+[SENDING - 8.9375] Counter: 15 - Source: 6666, Destination: 7777, Sequence: 3501, Acknowledgement: 3001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 3001
+
+[RECEIVED - 10.1875] Counter: 16 - Source: 6666, Destination: 7777, Sequence: 3501, Acknowledgement: 3001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 3001
+
+[SENDING - 10.203125] Counter: 17 - Source: 6666, Destination: 7777, Sequence: 4001, Acknowledgement: 3501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 3501
+
+[RECEIVED - 11.453125] Counter: 18 - Source: 6666, Destination: 7777, Sequence: 4001, Acknowledgement: 3501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 3501
+
+[SENDING - 11.46875] Counter: 19 - Source: 6666, Destination: 7777, Sequence: 4501, Acknowledgement: 4001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 4001
+
+[RECEIVED - 12.390625] Counter: 20 - Source: 6666, Destination: 7777, Sequence: 4501, Acknowledgement: 4001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 4001
+
+[SENDING - 12.4375] Counter: 21 - Source: 6666, Destination: 7777, Sequence: 5001, Acknowledgement: 4501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 4501
+
+[RECEIVED - 13.078125] Counter: 22 - Source: 6666, Destination: 7777, Sequence: 5001, Acknowledgement: 4501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 4501
+
+[SENDING - 13.09375] Counter: 23 - Source: 6666, Destination: 7777, Sequence: 5501, Acknowledgement: 5001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 5001
+
+[RECEIVED - 13.75] Counter: 24 - Source: 6666, Destination: 7777, Sequence: 5501, Acknowledgement: 5001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 5001
+
+[SENDING - 13.828125] Counter: 25 - Source: 6666, Destination: 7777, Sequence: 6001, Acknowledgement: 5501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 5501
+
+[RECEIVED - 14.921875] Counter: 26 - Source: 6666, Destination: 7777, Sequence: 6001, Acknowledgement: 5501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 5501
+
+[SENDING - 14.9375] Counter: 27 - Source: 6666, Destination: 7777, Sequence: 6501, Acknowledgement: 6001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 6001
+
+[RECEIVED - 16.078125] Counter: 28 - Source: 6666, Destination: 7777, Sequence: 6501, Acknowledgement: 6001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 6001
+
+[SENDING - 16.09375] Counter: 29 - Source: 6666, Destination: 7777, Sequence: 7001, Acknowledgement: 6501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 6501
+
+[RECEIVED - 16.828125] Counter: 30 - Source: 6666, Destination: 7777, Sequence: 7001, Acknowledgement: 6501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 6501
+
+[SENDING - 16.890625] Counter: 31 - Source: 6666, Destination: 7777, Sequence: 7501, Acknowledgement: 7001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 7001
+
+[RECEIVED - 17.703125] Counter: 32 - Source: 6666, Destination: 7777, Sequence: 7501, Acknowledgement: 7001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 7001
+
+[SENDING - 17.75] Counter: 33 - Source: 6666, Destination: 7777, Sequence: 8001, Acknowledgement: 7501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 7501
+
+[RECEIVED - 18.921875] Counter: 34 - Source: 6666, Destination: 7777, Sequence: 8001, Acknowledgement: 7501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 7501
+
+[SENDING - 18.9375] Counter: 35 - Source: 6666, Destination: 7777, Sequence: 8501, Acknowledgement: 8001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 8001
+
+[RECEIVED - 19.734375] Counter: 36 - Source: 6666, Destination: 7777, Sequence: 8501, Acknowledgement: 8001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 8001
+
+[SENDING - 19.796875] Counter: 37 - Source: 6666, Destination: 7777, Sequence: 9001, Acknowledgement: 8501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 8501
+
+[RECEIVED - 20.71875] Counter: 38 - Source: 6666, Destination: 7777, Sequence: 9001, Acknowledgement: 8501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 8501
+
+[SENDING - 20.734375] Counter: 39 - Source: 6666, Destination: 7777, Sequence: 9501, Acknowledgement: 9001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 9001
+
+[RECEIVED - 21.296875] Counter: 40 - Source: 6666, Destination: 7777, Sequence: 9001, Acknowledgement: 8501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 9001
+
+[SENDING - 21.3125] Counter: 41 - Source: 6666, Destination: 7777, Sequence: 9001, Acknowledgement: 9001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 9001
+
+[RECEIVED - 21.71875] Counter: 42 - Source: 6666, Destination: 7777, Sequence: 9501, Acknowledgement: 9001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 9001
+
+[SENDING - 21.71875] Counter: 43 - Source: 6666, Destination: 7777, Sequence: 10001, Acknowledgement: 9501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 9501
+
+[RECEIVED - 22.796875] Counter: 44 - Source: 6666, Destination: 7777, Sequence: 10001, Acknowledgement: 9501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 9501
+
+[SENDING - 22.921875] Counter: 45 - Source: 6666, Destination: 7777, Sequence: 10501, Acknowledgement: 10001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 10001
+
+[RECEIVED - 23.921875] Counter: 46 - Source: 6666, Destination: 7777, Sequence: 10501, Acknowledgement: 10001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 10001
+
+[SENDING - 24.015625] Counter: 47 - Source: 6666, Destination: 7777, Sequence: 11001, Acknowledgement: 10501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 10501
+
+[RECEIVED - 25.078125] Counter: 48 - Source: 6666, Destination: 7777, Sequence: 11001, Acknowledgement: 10501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 10501
+
+[SENDING - 25.078125] Counter: 49 - Source: 6666, Destination: 7777, Sequence: 11501, Acknowledgement: 11001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 11001
+
+[RECEIVED - 25.96875] Counter: 50 - Source: 6666, Destination: 7777, Sequence: 11501, Acknowledgement: 11001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 11001
+
+[SENDING - 26.0] Counter: 51 - Source: 6666, Destination: 7777, Sequence: 12001, Acknowledgement: 11501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 11501
+
+[RECEIVED - 27.125] Counter: 52 - Source: 6666, Destination: 7777, Sequence: 12001, Acknowledgement: 11501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 11501
+
+[SENDING - 27.15625] Counter: 53 - Source: 6666, Destination: 7777, Sequence: 12501, Acknowledgement: 12001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 12001
+
+[RECEIVED - 28.15625] Counter: 54 - Source: 6666, Destination: 7777, Sequence: 12501, Acknowledgement: 12001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 12001
+
+[SENDING - 28.203125] Counter: 55 - Source: 6666, Destination: 7777, Sequence: 13001, Acknowledgement: 12501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 12501
+
+[RECEIVED - 29.125] Counter: 56 - Source: 6666, Destination: 7777, Sequence: 13001, Acknowledgement: 12501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 12501
+
+[SENDING - 29.140625] Counter: 57 - Source: 6666, Destination: 7777, Sequence: 13501, Acknowledgement: 13001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 13001
+
+[RECEIVED - 30.25] Counter: 58 - Source: 6666, Destination: 7777, Sequence: 13501, Acknowledgement: 13001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 13001
+
+[SENDING - 30.3125] Counter: 59 - Source: 6666, Destination: 7777, Sequence: 14001, Acknowledgement: 13501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 13501
+
+[RECEIVED - 31.140625] Counter: 60 - Source: 6666, Destination: 7777, Sequence: 14001, Acknowledgement: 13501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 13501
+
+[SENDING - 31.171875] Counter: 61 - Source: 6666, Destination: 7777, Sequence: 14501, Acknowledgement: 14001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 14001
+
+[RECEIVED - 32.265625] Counter: 62 - Source: 6666, Destination: 7777, Sequence: 14501, Acknowledgement: 14001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 14001
+
+[SENDING - 32.296875] Counter: 63 - Source: 6666, Destination: 7777, Sequence: 15001, Acknowledgement: 14501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 14501
+
+[RECEIVED - 32.96875] Counter: 64 - Source: 6666, Destination: 7777, Sequence: 15001, Acknowledgement: 14501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 14501
+
+[SENDING - 32.984375] Counter: 65 - Source: 6666, Destination: 7777, Sequence: 15501, Acknowledgement: 15001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 15001
+
+[RECEIVED - 33.828125] Counter: 66 - Source: 6666, Destination: 7777, Sequence: 15501, Acknowledgement: 15001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 15001
+
+[SENDING - 33.90625] Counter: 67 - Source: 6666, Destination: 7777, Sequence: 16001, Acknowledgement: 15501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 15501
+
+[RECEIVED - 34.59375] Counter: 68 - Source: 6666, Destination: 7777, Sequence: 16001, Acknowledgement: 15501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 15501
+
+[SENDING - 34.625] Counter: 69 - Source: 6666, Destination: 7777, Sequence: 16501, Acknowledgement: 16001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 16001
+
+[RECEIVED - 35.484375] Counter: 70 - Source: 6666, Destination: 7777, Sequence: 16501, Acknowledgement: 16001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 16001
+
+[SENDING - 35.484375] Counter: 71 - Source: 6666, Destination: 7777, Sequence: 17001, Acknowledgement: 16501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 16501
+
+[RECEIVED - 36.34375] Counter: 72 - Source: 6666, Destination: 7777, Sequence: 17001, Acknowledgement: 16501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 16501
+
+[SENDING - 36.390625] Counter: 73 - Source: 6666, Destination: 7777, Sequence: 17501, Acknowledgement: 17001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 17001
+
+[RECEIVED - 36.9375] Counter: 74 - Source: 6666, Destination: 7777, Sequence: 17501, Acknowledgement: 17001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 17001
+
+[SENDING - 36.9375] Counter: 75 - Source: 6666, Destination: 7777, Sequence: 18001, Acknowledgement: 17501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 17501
+
+[RECEIVED - 38.0625] Counter: 76 - Source: 6666, Destination: 7777, Sequence: 18001, Acknowledgement: 17501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 17501
+
+[SENDING - 38.09375] Counter: 77 - Source: 6666, Destination: 7777, Sequence: 18501, Acknowledgement: 18001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 18001
+
+[RECEIVED - 39.015625] Counter: 78 - Source: 6666, Destination: 7777, Sequence: 18501, Acknowledgement: 18001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 18001
+
+[SENDING - 39.046875] Counter: 79 - Source: 6666, Destination: 7777, Sequence: 19001, Acknowledgement: 18501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 18501
+
+[RECEIVED - 40.0] Counter: 80 - Source: 6666, Destination: 7777, Sequence: 19001, Acknowledgement: 18501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 18501
+
+[SENDING - 40.015625] Counter: 81 - Source: 6666, Destination: 7777, Sequence: 19501, Acknowledgement: 19001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 19001
+
+[RECEIVED - 41.234375] Counter: 82 - Source: 6666, Destination: 7777, Sequence: 19501, Acknowledgement: 19001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 19001
+
+[SENDING - 41.265625] Counter: 83 - Source: 6666, Destination: 7777, Sequence: 20001, Acknowledgement: 19501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 19501
+
+[RECEIVED - 42.34375] Counter: 84 - Source: 6666, Destination: 7777, Sequence: 20001, Acknowledgement: 19501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 19501
+
+[SENDING - 42.375] Counter: 85 - Source: 6666, Destination: 7777, Sequence: 20501, Acknowledgement: 20001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 20001
+
+[RECEIVED - 43.28125] Counter: 86 - Source: 6666, Destination: 7777, Sequence: 20501, Acknowledgement: 20001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 20001
+
+[SENDING - 43.3125] Counter: 87 - Source: 6666, Destination: 7777, Sequence: 21001, Acknowledgement: 20501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 20501
+
+[RECEIVED - 44.15625] Counter: 88 - Source: 6666, Destination: 7777, Sequence: 21001, Acknowledgement: 20501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 20501
+
+[SENDING - 44.1875] Counter: 89 - Source: 6666, Destination: 7777, Sequence: 21501, Acknowledgement: 21001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 21001
+
+[RECEIVED - 45.140625] Counter: 90 - Source: 6666, Destination: 7777, Sequence: 21501, Acknowledgement: 21001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 21001
+
+[SENDING - 45.15625] Counter: 91 - Source: 6666, Destination: 7777, Sequence: 22001, Acknowledgement: 21501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 21501
+
+[RECEIVED - 46.109375] Counter: 92 - Source: 6666, Destination: 7777, Sequence: 22001, Acknowledgement: 21501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 21501
+
+[SENDING - 46.171875] Counter: 93 - Source: 6666, Destination: 7777, Sequence: 22501, Acknowledgement: 22001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 22001
+
+[RECEIVED - 47.171875] Counter: 94 - Source: 6666, Destination: 7777, Sequence: 22501, Acknowledgement: 22001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 22001
+
+[SENDING - 47.265625] Counter: 95 - Source: 6666, Destination: 7777, Sequence: 23001, Acknowledgement: 22501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 22501
+
+[RECEIVED - 48.453125] Counter: 96 - Source: 6666, Destination: 7777, Sequence: 23001, Acknowledgement: 22501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 22501
+
+[SENDING - 48.46875] Counter: 97 - Source: 6666, Destination: 7777, Sequence: 23501, Acknowledgement: 23001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 23001
+
+[RECEIVED - 48.875] Counter: 98 - Source: 6666, Destination: 7777, Sequence: 23501, Acknowledgement: 23001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 23001
+
+[SENDING - 48.90625] Counter: 99 - Source: 6666, Destination: 7777, Sequence: 24001, Acknowledgement: 23501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 23501
+
+[RECEIVED - 49.5625] Counter: 100 - Source: 6666, Destination: 7777, Sequence: 24001, Acknowledgement: 23501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 23501
+
+[SENDING - 49.578125] Counter: 101 - Source: 6666, Destination: 7777, Sequence: 24501, Acknowledgement: 24001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 24001
+
+[RECEIVED - 50.1875] Counter: 102 - Source: 6666, Destination: 7777, Sequence: 24501, Acknowledgement: 24001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 24001
+
+[SENDING - 50.1875] Counter: 103 - Source: 6666, Destination: 7777, Sequence: 25001, Acknowledgement: 24501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 24501
+
+[RECEIVED - 51.28125] Counter: 104 - Source: 6666, Destination: 7777, Sequence: 25001, Acknowledgement: 24501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 24501
+
+[SENDING - 51.296875] Counter: 105 - Source: 6666, Destination: 7777, Sequence: 25501, Acknowledgement: 25001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 25001
+
+[RECEIVED - 52.65625] Counter: 106 - Source: 6666, Destination: 7777, Sequence: 25501, Acknowledgement: 25001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 25001
+
+[SENDING - 52.65625] Counter: 107 - Source: 6666, Destination: 7777, Sequence: 26001, Acknowledgement: 25501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 25501
+
+[RECEIVED - 53.40625] Counter: 108 - Source: 6666, Destination: 7777, Sequence: 26001, Acknowledgement: 25501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 25501
+
+[SENDING - 53.40625] Counter: 109 - Source: 6666, Destination: 7777, Sequence: 26501, Acknowledgement: 26001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 26001
+
+[RECEIVED - 54.21875] Counter: 110 - Source: 6666, Destination: 7777, Sequence: 26501, Acknowledgement: 26001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 26001
+
+[SENDING - 54.3125] Counter: 111 - Source: 6666, Destination: 7777, Sequence: 27001, Acknowledgement: 26501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 26501
+
+[RECEIVED - 55.578125] Counter: 112 - Source: 6666, Destination: 7777, Sequence: 27001, Acknowledgement: 26501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 26501
+
+[SENDING - 55.578125] Counter: 113 - Source: 6666, Destination: 7777, Sequence: 27501, Acknowledgement: 27001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 27001
+
+[RECEIVED - 56.5625] Counter: 114 - Source: 6666, Destination: 7777, Sequence: 27501, Acknowledgement: 27001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 27001
+
+[SENDING - 56.640625] Counter: 115 - Source: 6666, Destination: 7777, Sequence: 28001, Acknowledgement: 27501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 27501
+
+[RECEIVED - 57.6875] Counter: 116 - Source: 6666, Destination: 7777, Sequence: 28001, Acknowledgement: 27501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 27501
+
+[SENDING - 57.703125] Counter: 117 - Source: 6666, Destination: 7777, Sequence: 28501, Acknowledgement: 28001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 28001
+
+[RECEIVED - 58.671875] Counter: 118 - Source: 6666, Destination: 7777, Sequence: 28501, Acknowledgement: 28001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 28001
+
+[SENDING - 58.6875] Counter: 119 - Source: 6666, Destination: 7777, Sequence: 29001, Acknowledgement: 28501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 28501
+
+[RECEIVED - 59.203125] Counter: 120 - Source: 6666, Destination: 7777, Sequence: 29001, Acknowledgement: 28501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 28501
+
+[SENDING - 59.21875] Counter: 121 - Source: 6666, Destination: 7777, Sequence: 29501, Acknowledgement: 29001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 29001
+
+[RECEIVED - 60.125] Counter: 122 - Source: 6666, Destination: 7777, Sequence: 29501, Acknowledgement: 29001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 29001
+
+[SENDING - 60.15625] Counter: 123 - Source: 6666, Destination: 7777, Sequence: 30001, Acknowledgement: 29501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 29501
+
+[RECEIVED - 60.96875] Counter: 124 - Source: 6666, Destination: 7777, Sequence: 30001, Acknowledgement: 29501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 29501
+
+[SENDING - 61.015625] Counter: 125 - Source: 6666, Destination: 7777, Sequence: 30501, Acknowledgement: 30001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 30001
+
+[RECEIVED - 61.703125] Counter: 126 - Source: 6666, Destination: 7777, Sequence: 30501, Acknowledgement: 30001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 30001
+
+[SENDING - 61.734375] Counter: 127 - Source: 6666, Destination: 7777, Sequence: 31001, Acknowledgement: 30501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 30501
+
+[RECEIVED - 62.96875] Counter: 128 - Source: 6666, Destination: 7777, Sequence: 31001, Acknowledgement: 30501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 30501
+
+[SENDING - 62.984375] Counter: 129 - Source: 6666, Destination: 7777, Sequence: 31501, Acknowledgement: 31001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 31001
+
+[RECEIVED - 63.859375] Counter: 130 - Source: 6666, Destination: 7777, Sequence: 31501, Acknowledgement: 31001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 31001
+
+[SENDING - 63.90625] Counter: 131 - Source: 6666, Destination: 7777, Sequence: 32001, Acknowledgement: 31501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 31501
+
+[RECEIVED - 64.703125] Counter: 132 - Source: 6666, Destination: 7777, Sequence: 32001, Acknowledgement: 31501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 31501
+
+[SENDING - 64.734375] Counter: 133 - Source: 6666, Destination: 7777, Sequence: 32501, Acknowledgement: 32001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 32001
+
+[RECEIVED - 65.65625] Counter: 134 - Source: 6666, Destination: 7777, Sequence: 32501, Acknowledgement: 32001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 32001
+
+[SENDING - 65.671875] Counter: 135 - Source: 6666, Destination: 7777, Sequence: 33001, Acknowledgement: 32501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 32501
+
+[RECEIVED - 66.78125] Counter: 136 - Source: 6666, Destination: 7777, Sequence: 33001, Acknowledgement: 32501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 32501
+
+[SENDING - 66.8125] Counter: 137 - Source: 6666, Destination: 7777, Sequence: 33501, Acknowledgement: 33001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 33001
+
+[RECEIVED - 67.484375] Counter: 138 - Source: 6666, Destination: 7777, Sequence: 33501, Acknowledgement: 33001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 33001
+
+[SENDING - 67.515625] Counter: 139 - Source: 6666, Destination: 7777, Sequence: 34001, Acknowledgement: 33501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 33501
+
+[RECEIVED - 68.71875] Counter: 140 - Source: 6666, Destination: 7777, Sequence: 34001, Acknowledgement: 33501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 33501
+
+[SENDING - 68.75] Counter: 141 - Source: 6666, Destination: 7777, Sequence: 34501, Acknowledgement: 34001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 34001
+
+[RECEIVED - 69.734375] Counter: 142 - Source: 6666, Destination: 7777, Sequence: 34501, Acknowledgement: 34001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 34001
+
+[SENDING - 69.75] Counter: 143 - Source: 6666, Destination: 7777, Sequence: 35001, Acknowledgement: 34501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 34501
+
+[RECEIVED - 70.4375] Counter: 144 - Source: 6666, Destination: 7777, Sequence: 35001, Acknowledgement: 34501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 34501
+
+[SENDING - 70.453125] Counter: 145 - Source: 6666, Destination: 7777, Sequence: 35501, Acknowledgement: 35001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 35001
+
+[RECEIVED - 71.25] Counter: 146 - Source: 6666, Destination: 7777, Sequence: 35501, Acknowledgement: 35001, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 35001
+
+[SENDING - 71.25] Counter: 147 - Source: 6666, Destination: 7777, Sequence: 36001, Acknowledgement: 35501, TCP Control Flags: {'URG': 0, 'ACK': 1, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': False}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 35501
+
+[RECEIVED - 72.359375] Counter: 148 - Source: 6666, Destination: 7777, Sequence: 35746, Acknowledgement: 35501, TCP Control Flags: {'URG': 0, 'ACK': 0, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': 1}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 35501
+
+[SENDING - 72.40625] Counter: 149 - Source: 6666, Destination: 7777, Sequence: 35746, Acknowledgement: 35501, TCP Control Flags: {'URG': 0, 'ACK': 0, 'PSH': False, 'RST': False, 'SYN': 0, 'FIN': 1}, Checksum: 1683, Optional Headers: {} 
+RCV_Base: 35501
+

@@ -3,10 +3,13 @@ import asyncio
 import os
 from ServerDriver import Servers
 from ClientDriver import Clients
+from ProxyServer.Client import client
+from ProxyServer.Proxy_Server import run_server, handle_client
 
 load_dotenv()
 
 runnable = asyncio.run
+
 
 
 def client_server_run():
@@ -30,9 +33,17 @@ def main():
             ReceiverStreamLogger = open(fileOpening('RECEIVER_LOG_LOGGER'))
             SenderStreamLogger = open(fileOpening('SENDER_LOG_LOGGER'))
             Misc = open(fileOpening('MISC'))
+            
         finally:
              pass
     client_server_run(); infinite_looping()
+
+
+def using_proxy_server():
+    client()
+    run_server()
+    handle_client()
+
 
 if __name__ == '__main__':
     main()
